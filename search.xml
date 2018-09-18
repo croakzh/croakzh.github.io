@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title>my new post</title>
+      <link href="/2018/09/18/my-new-post/"/>
+      <url>/2018/09/18/my-new-post/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> test </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>你好</title>
+      <link href="/2018/09/14/%E4%BD%A0%E5%A5%BD/"/>
+      <url>/2018/09/14/%E4%BD%A0%E5%A5%BD/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> Testing </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> tags </tag>
+            
+        </tags>
+      
+    </entry>
+    
+  
+  
+</search>
