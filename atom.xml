@@ -18,8 +18,8 @@
   
   <entry>
     <title>my new post</title>
-    <link href="http://yoursite.com/2018/09/18/my-new-post/"/>
-    <id>http://yoursite.com/2018/09/18/my-new-post/</id>
+    <link href="http://yoursite.com/2018/09/18/hexo2/"/>
+    <id>http://yoursite.com/2018/09/18/hexo2/</id>
     <published>2018-09-18T13:50:17.000Z</published>
     <updated>2018-09-18T13:51:23.847Z</updated>
     
@@ -35,17 +35,24 @@
   </entry>
   
   <entry>
-    <title>你好</title>
-    <link href="http://yoursite.com/2018/09/14/%E4%BD%A0%E5%A5%BD/"/>
-    <id>http://yoursite.com/2018/09/14/你好/</id>
+    <title>hexo</title>
+    <link href="http://yoursite.com/2018/09/14/hexo/"/>
+    <id>http://yoursite.com/2018/09/14/hexo/</id>
     <published>2018-09-13T23:42:11.000Z</published>
-    <updated>2018-09-17T23:37:59.045Z</updated>
+    <updated>2018-09-18T14:33:39.761Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Test"><a href="#Test" class="headerlink" title="Test"></a>Test</h1>]]></content>
     
     <summary type="html">
     
+      
+      
+        &lt;h1 id=&quot;Test&quot;&gt;&lt;a href=&quot;#Test&quot; class=&quot;headerlink&quot; title=&quot;Test&quot;&gt;&lt;/a&gt;Test&lt;/h1&gt;
+      
+    
     </summary>
     
-      <category term="Testing" scheme="http://yoursite.com/categories/Testing/"/>
+      <category term="hexo" scheme="http://yoursite.com/categories/hexo/"/>
     
     
       <category term="tags" scheme="http://yoursite.com/tags/tags/"/>

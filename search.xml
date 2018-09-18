@@ -4,8 +4,8 @@
     
     <entry>
       <title>my new post</title>
-      <link href="/2018/09/18/my-new-post/"/>
-      <url>/2018/09/18/my-new-post/</url>
+      <link href="/2018/09/18/hexo2/"/>
+      <url>/2018/09/18/hexo2/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -26,16 +26,16 @@
     </entry>
     
     <entry>
-      <title>你好</title>
-      <link href="/2018/09/14/%E4%BD%A0%E5%A5%BD/"/>
-      <url>/2018/09/14/%E4%BD%A0%E5%A5%BD/</url>
+      <title>hexo</title>
+      <link href="/2018/09/14/hexo/"/>
+      <url>/2018/09/14/hexo/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="Test"><a href="#Test" class="headerlink" title="Test"></a>Test</h1>]]></content>
       
       
       <categories>
           
-          <category> Testing </category>
+          <category> hexo </category>
           
       </categories>
       
