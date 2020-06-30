@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search> 
   
+  
     
     <entry>
       <title>my new post</title>
@@ -25,6 +26,8 @@
       
     </entry>
     
+    
+    
     <entry>
       <title>hexo</title>
       <link href="/2018/09/14/hexo/"/>
@@ -47,6 +50,7 @@
         </tags>
       
     </entry>
+    
     
   
   
