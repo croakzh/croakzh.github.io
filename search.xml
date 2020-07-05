@@ -5,44 +5,6 @@
     
     <entry>
       <title>hexo</title>
-      <link href="/2020/07/05/hexo-1/"/>
-      <url>/2020/07/05/hexo-1/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>my new post</title>
-      <link href="/2018/09/18/hexo2/"/>
-      <url>/2018/09/18/hexo2/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> hexo </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> test </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>hexo</title>
       <link href="/2018/09/14/hexo/"/>
       <url>/2018/09/14/hexo/</url>
       
