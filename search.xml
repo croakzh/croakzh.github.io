@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>hexo</title>
+      <link href="/2020/07/05/hexo-1/"/>
+      <url>/2020/07/05/hexo-1/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>my new post</title>
       <link href="/2018/09/18/hexo2/"/>
       <url>/2018/09/18/hexo2/</url>
@@ -33,7 +46,7 @@
       <link href="/2018/09/14/hexo/"/>
       <url>/2018/09/14/hexo/</url>
       
-        <content type="html"><![CDATA[<h1 id="Test"><a href="#Test" class="headerlink" title="Test"></a>Test</h1>]]></content>
+        <content type="html"><![CDATA[<h1 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h1><blockquote><p>hexo学习记录</p></blockquote><h4 id="写作指令"><a href="#写作指令" class="headerlink" title="写作指令"></a>写作指令</h4><ol><li><code>hexo new [layout] &lt;title&gt;</code><ul><li>layout<ul><li>post 可以理解为发布</li><li>page 可以理解为一般页面</li><li>draft 可以理解为操作</li></ul></li></ul></li><li><code>Front-matter</code> 文件变量<ul><li>layout 布局</li><li>title 标题</li><li>date 建立日期</li><li>updated 更新日期</li><li>comments 开启文章的评论</li><li>tags 标签</li><li>categories 分类</li><li>permalink 覆盖文章网址</li></ul></li><li></li></ol>]]></content>
       
       
       <categories>

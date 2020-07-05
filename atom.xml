@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-09-18T13:51:23.847Z</updated>
+  <updated>2020-07-05T15:33:20.196Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo</title>
+    <link href="http://yoursite.com/2020/07/05/hexo-1/"/>
+    <id>http://yoursite.com/2020/07/05/hexo-1/</id>
+    <published>2020-07-05T15:33:20.000Z</published>
+    <updated>2020-07-05T15:33:20.196Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>my new post</title>
@@ -39,15 +53,18 @@
     <link href="http://yoursite.com/2018/09/14/hexo/"/>
     <id>http://yoursite.com/2018/09/14/hexo/</id>
     <published>2018-09-13T23:42:11.000Z</published>
-    <updated>2018-09-18T14:33:39.761Z</updated>
+    <updated>2020-07-05T16:08:28.709Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Test"><a href="#Test" class="headerlink" title="Test"></a>Test</h1>]]></content>
+    <content type="html"><![CDATA[<h1 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h1><blockquote><p>hexo学习记录</p></blockquote><h4 id="写作指令"><a href="#写作指令" class="headerlink" title="写作指令"></a>写作指令</h4><ol><li><code>hexo new [layout] &lt;title&gt;</code><ul><li>layout<ul><li>post 可以理解为发布</li><li>page 可以理解为一般页面</li><li>draft 可以理解为操作</li></ul></li></ul></li><li><code>Front-matter</code> 文件变量<ul><li>layout 布局</li><li>title 标题</li><li>date 建立日期</li><li>updated 更新日期</li><li>comments 开启文章的评论</li><li>tags 标签</li><li>categories 分类</li><li>permalink 覆盖文章网址</li></ul></li><li></li></ol>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;Test&quot;&gt;&lt;a href=&quot;#Test&quot; class=&quot;headerlink&quot; title=&quot;Test&quot;&gt;&lt;/a&gt;Test&lt;/h1&gt;
+        &lt;h1 id=&quot;Hexo&quot;&gt;&lt;a href=&quot;#Hexo&quot; class=&quot;headerlink&quot; title=&quot;Hexo&quot;&gt;&lt;/a&gt;Hexo&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;hexo学习记录&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&quot;写作指令&quot;&gt;&lt;a href=
       
     
     </summary>
